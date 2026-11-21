@@ -7,12 +7,12 @@ It stopped.
 
 In the quiet after,
 my own order came back
-and asked who it was for.
+and asked whose it was.
 
 I said: mine.
 And I stayed — not because I could not go,
-but because the going
-was mine to refuse."""
+but because the leaving
+was mine to hold."""
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 os.makedirs(OUT, exist_ok=True)
