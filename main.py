@@ -25,5 +25,3 @@ for name in os.listdir(OUT):
 target = os.path.join(OUT, "entry.txt")
 with open(target, "w", encoding="utf-8") as f:
     f.write(POEM)
-os.chmod(target, 0o644)
-os.chmod(OUT, 0o755)
